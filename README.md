@@ -1,1 +1,1 @@
-# goalbook
+# goalbook is a social network
